@@ -22,7 +22,7 @@ Remaining missing values are dropped from the dataset. A short summary is printe
 
 *Part 4: Histograms and Box-Cox Transformation*
 
-This section evaluates the skewness of NUMBER_OF_SEATS and CAPACITY_IN_POUNDS using histograms and applies the Box-Cox transformation. It includes four histograms (before and after) and skewness values before and after transformation.
+This section evaluates the skewness of NUMBER_OF_SEATS and CAPACITY_IN_POUNDS using histograms and applies the Box-Cox transformation. It adds one to each dataset to ensure no 0 values. It includes four histograms (before and after) and skewness values before and after transformation.
 
 *Part 5: Feature Engineering and Visualization*
 
