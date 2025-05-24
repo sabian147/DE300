@@ -1,0 +1,1 @@
+There is only one real file for submission. The file is sna3362_DATENG300_HW3.ipynb. This file calculates the loss function and prediction for a certain classifier with 64 predictor values. All necessary dependencies are uploaded and extracted from links given on the homework document. 
