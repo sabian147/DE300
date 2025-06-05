@@ -1,0 +1,16 @@
+Names of Group Members: Sabian Atmadja, Amanda Benjamin, Justin Dong
+
+MWAA Environment: Atmadja-Benjamin-Dong-MWAA
+https://us-east-1.console.aws.amazon.com/mwaa/home?region=us-east-1#environments/Atmadja-Benjamin-Dong-MWAA 
+
+S3 Bucket: atmadja-benjamin-dong-mwaa
+https://us-east-1.console.aws.amazon.com/s3/buckets/atmadja-benjamin-dong-mwaa?region=us-east-1&bucketType=general 
+
+
+GenAI Disclosure: 
+We used ChatGPT for a variety of purposes in this project. Namely with the following prompts:
+1. What does this error mean? Referring to permission issues with the apache
+2. How do I check why the code is not running? Like what error is occurring? 
+3. Why is Pandas not included in my apache? How do i include that?>
+4. Is there a way to test the code or do I just have to rawdog it? 
+
